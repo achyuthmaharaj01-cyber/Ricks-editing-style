@@ -3,3 +3,4 @@ stills/
 work/*.wav
 out/*.mp4
 node_modules/
+work/*.log
